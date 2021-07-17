@@ -142,3 +142,8 @@ font-weight: bold;
   float: left;
   margin-right: 30px;
 }
+
+.contact-me{
+  width: 50%;
+  margin:auto;
+}
